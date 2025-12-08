@@ -6,9 +6,9 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.wellnessz.azharfitnesscenter",
+      "package_name": "com.wellnessz.nutrihealth",
       "sha256_cert_fingerprints": [
-        "9B:2E:73:E1:CA:F4:C8:B2:6C:1A:B5:BC:37:7C:D5:56:C3:2E:DD:18:37:64:0B:CA:88:4B:CD:02:E8:C0:45:83"
+        "43:72:20:8A:BB:D8:53:D1:3D:C5:A9:B6:D0:DA:C6:18:FE:1D:0F:AC:94:55:8C:02:86:93:C3:23:8A:D5:13:35"
       ]
     }
   }
